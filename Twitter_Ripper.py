@@ -59,7 +59,7 @@ twitrip.resizable(False, False) #창 x방향 y방향 크기 조절 가능 여부
 
 
 
-label = tkinter.Label(twitrip, text = "'Twitter Ripper'에 오신 것을 환영합니다. \n 아래에 twitter.com주소를 붙여넣기 해주세요. \n Made By XiBBaL", height = 5)
+label = tkinter.Label(twitrip, text = '"Twitter Ripper"에 오신 것을 환영합니다. \n 아래에 twitter.com주소를 붙여넣기 해주세요. \n Made By XiBBaL', height = 5)
 label.place(x=50, y=4)
 
 userlink = tkinter.Entry(twitrip, width=40)
