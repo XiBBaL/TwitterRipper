@@ -1,8 +1,9 @@
 # TwitterRipper
 **Circumvent twitter's adult identifier via nitter.net**
 <br/>
+<br/>
 
-All languages in program are Korean, but it is easy to use.
+All languages in program are Korean.
 <br/>
 1. launch Twitter_Ripper.py and put your twitter.com link in GUI. 
 2. Click the "Rip it!" Button and program will automatically open a single chrome secretmode tab that includes your video.
